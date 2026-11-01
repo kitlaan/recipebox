@@ -1,0 +1,6 @@
+# Collection policy for the recipebox. [site] feeds culina-site; [lexicon]
+# points at an overlay when family vocabulary needs registering.
+
+[site]
+title = "Recipebox"
+description = "Recipes, as a dataflow graph."
