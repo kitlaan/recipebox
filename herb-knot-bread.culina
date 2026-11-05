@@ -1,0 +1,35 @@
+>> title: Herb Knot Bread
+>> servings: 8
+>> author: Ted Lin
+>> date: 2020-07-27
+>> dish: herb bread
+>> keywords: bread, garlic, herbs, sourdough discard
+>> summary: A messy loaf packed with garlic and herbs, like pizza-shop breadsticks; measurements are by feel.
+>> image: static/photos/herb-knot-bread/knot_mess.jpg
+
+# Dough
+
+:mix @{all-purpose flour|4 cups}, @{bread flour|1 cup}, @{yeast|1 tsp}, @{salt|2 tsp} in #bowl => _flour.
+:combine @{warm water|1 1/2 cups}, @{sourdough discard|1/2 cup|straight from the fridge} => _liquid.
+:let _liquid sit a few minutes and check for yeast activity.
+:mix and knead _liquid, _flour, @{oil|3 tbsp} until smooth => _dough.
+  (add flour if it is too wet for you, but it should be sticky and tacky)
+:{proof|about 1 hour} _dough in #{oiled bowl} until roughly doubled.
+
+# Shape
+
+:punch down _dough and separate into at least 2 portions => _{dough portions}.
+:roll _{dough portions} into rectangles; the size is arbitrary, a 5:3 ratio worked.
+:slather @{herbs|whatever|finely chopped; basil, thyme, rosemary, garlic} and @oil on _{dough portions}, fold lengthwise in thirds.
+:stack _{dough portions}, then shape into whatever you want => _loaf.
+  (steamed-bun knots, rough braids, lengthwise slices braided, or a plain wet mess all work)
+:place _loaf on #{sheet pan|parchment}.
+:{rest|about 1 hour} _loaf.
+
+# Bake
+
+:preheat #{oven|400F} during the rest.
+:{bake|about 20 min} _loaf.
+:{rest|until cool} _loaf before slicing.
+
+>> note: Leftover garlic aioli (garlic, oil, and salt pounded into an emulsion) is wonderful mixed into the herbs, or brushed over the bread after baking.

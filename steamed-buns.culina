@@ -1,0 +1,28 @@
+>> title: Steamed Buns
+>> servings: 16
+>> author: Ted Lin
+>> date: 2020-03-15
+>> dish: steamed buns
+>> cuisine: Chinese
+>> keywords: bread, steamed
+>> summary: Chinese steamed buns, the base for many flavors.
+
+# Dough
+
+:stir @{sugar|100 g} into @{warm water|290 g} until dissolved => _{sugar water}.
+:combine @{all-purpose flour|600 g}, @{active dry yeast|2 tsp}, @{baking powder|1/4 tsp}, @{salt|1/4 tsp} => _flour.
+:knead _{sugar water} into _flour until a dough forms => _dough.
+:knead @{vegetable oil|40 g} into _dough until smooth.
+:{rest|30 min} _dough covered in #bowl.
+
+# Shape and steam
+
+:roll _dough into a long rectangle, 3x longer in width, about 1/8 in thick.
+:roll _dough tightly into a long log and slice into pieces about 2 in wide => _{buns|16}.
+  (the traditional method; other shaping techniques exist)
+:{rest|20 min} _buns.
+:{steam|12 min} _buns in #steamer until the surface is shiny.
+
+>> note: Brown sugar version: use 130 g brown sugar and 260 g water in place of the sugar and water. The Taiwanese brown sugar buns have a brown color and a slightly robust sweet flavor.
+>> note: Scallion layers: mix finely chopped scallions, a pinch of salt, and 1 tsp oil, then spread over the rolled-out dough before rolling.
+>> note: For a decorative look, make brown sugar and white sugar doughs and layer them before rolling; a "flower roll" shape also works.

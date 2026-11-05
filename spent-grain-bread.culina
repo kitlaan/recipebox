@@ -1,0 +1,26 @@
+>> title: Spent Grain Bread (Scottish Ale)
+>> servings: 2
+>> author: Ted Lin
+>> date: 2019-10-15
+>> dish: spent grain bread
+>> keywords: bread, homebrew, spent grain
+>> summary: Bread from the spent grain of a homebrew batch, made while the wort finishes.
+
+# Dough
+
+:combine @{sugar|1/3 cup} and @{warm water|1 1/2 cups} in #{mixer bowl}.
+:{proof|5-10 min} @{active dry yeast|1 tbsp} in the sugar water => _yeast.
+:add @{spent grain|3 cups|wet}, @{flour|3-5 cups}, @{salt|1%pinch} to _yeast, knead until smooth => _dough.
+  (all-purpose or bread flour both work; add flour until the dough is not sticky, since grain hydration varies)
+:transfer _dough to #{oiled bowl} and cover.
+:{rise|about 1 hour} _dough until doubled.
+
+# Bake
+
+:punch down _dough and split into two #{loaf pan} => _loaves.
+:{rise|about 1 hour} _loaves until doubled.
+:{bake|30-40 min} _loaves at #{oven|375F} until the internal temp is 210F, if you have a probe thermometer.
+:{rest|1 hour} _loaves before eating.
+
+>> note: Rise time depends on temperature; at mid-60s house temps it took longer.
+>> note: This batch used "scottish ale" grains. It needed a little more oven time and may have been overproofed.

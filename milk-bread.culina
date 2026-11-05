@@ -1,0 +1,39 @@
+>> title: Japanese-style Milk Bread
+>> servings: 12
+>> author: Ted Lin
+>> date: 2020-03-29
+>> dish: milk bread
+>> cuisine: Japanese
+>> keywords: bread, sandwich bread, pullman
+>> summary: Sandwich bread rewritten from combined sources for a 13 x 4 in Pullman loaf pan.
+>> image: static/photos/milk-bread/final.jpg
+>> image: static/photos/milk-bread/underproof.jpg
+>> source: https://www.iceorrice.com/japanese-milk-bread-stand-mixer-bread-maker/
+>> source: https://www.iceorrice.com/japanese-hokkaido-whole-wheat-milk-bread/
+
+# Dough
+
+:{proof|a few min} @{whole milk|290 g}, @{active dry yeast|4 g}, @{sugar|26 g}, @{sweetened condensed milk|13 g} in #{stand mixer} bowl => _starter.
+:mix @{bread flour|440 g} into _starter at low speed, about 2 min until incorporated => _dough.
+:{mix|6 min} @{salt|9 g} slowly into _dough at medium speed.
+:{mix|6 min} @{butter|53 g|room temp, in chunks} into _dough until smooth and glossy; dough temp should be 79-82F.
+:{rest|about 60 min} _dough for bulk ferment.
+
+# Shape
+
+:punch down _dough and divide into 5 pieces; fold and round each => _{dough pieces|5}.
+:{rest|20 min} _{dough pieces} under #{damp towel}.
+:roll _{dough pieces} into 4 x 6 in rectangles, pinch down one end, and roll lengthwise with the pinched end down.
+:form _{dough pieces} into U shapes and place in #{Pullman pan|13x4 in}, alternating the facing of the U's => _loaf.
+:{proof|about 1 hour} _loaf at #{proofer|90F} and 85% humidity until the dough rises to about 80% of the pan.
+
+# Bake
+
+:preheat #{oven|395F} an hour before baking.
+:{bake|30 min} _loaf in #oven with #{Pullman lid|on}.
+:shake the pan to loosen _loaf and immediately transfer to #{cooling rack}.
+:{cool|at least 1 hour} _loaf completely before slicing.
+
+>> note: The temperature and humidity of the proofing environment, and the temperature of the dough, matter greatly; colder environments take much longer.
+>> note: An underproofed loaf has fine crumb and texture, but does not rise enough for the squared-off shape.
+>> note: Left in the pan, the bread steams and the crust softens.

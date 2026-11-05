@@ -1,0 +1,54 @@
+>> title: Boba Pearls
+>> servings: 4
+>> author: Ted Lin
+>> date: 2020-03-17
+>> dish: boba
+>> cuisine: Taiwanese
+>> course: drink
+>> keywords: tapioca, milk tea
+>> summary: Homemade tapioca pearls in brown sugar syrup, with milk tea; best made a day ahead.
+>> image: static/photos/boba-pearls/cupotea.jpg
+>> image: static/photos/boba-pearls/balls.jpg
+>> image: static/photos/boba-pearls/boiling.jpg
+>> image: static/photos/boba-pearls/bobasyrup.jpg
+>> image: static/photos/boba-pearls/milktea.jpg
+>> source: https://www.chinasichuanfood.com/how-to-make-boba-pearls-at-home/
+>> source: https://thewoksoflife.com/how-to-cook-tapioca-pearls/
+>> source: https://www.foxyfolksy.com/how-to-make-black-tapioca-pearls/
+
+# Pearls
+
+:heat @{water|6 tbsp}, @{dark brown sugar|4 tbsp} in #pot until dissolved => _syrup.
+:mix @{tapioca flour|1/3 cup} into _syrup QUICKLY until smooth => _paste.
+  (if you wait, it clumps and needs extra mashing)
+:fold _paste into @{tapioca flour|2/3 cup} on a work surface with #scraper until mostly incorporated or cool enough to handle, then knead until all the flour is absorbed => _dough.
+  (it stays a little tacky; resist adding more flour)
+:roll _dough in chunks into cylinders, at most 1 cm in diameter => _cylinders.
+  (the cylinder size sets the pearl size; go smaller if you want them straw-able)
+:cut _cylinders into pieces and round into rough spheres => _pearls.
+:dust _pearls lightly with @flour.
+  (they keep a day in the fridge, or freeze)
+
+# Cook
+
+:boil @{water|a lot} in #{large pot} to a rolling boil.
+  (more than you think you need; the pearls release a lot of starch)
+:{simmer|15 min} _pearls in the boil in #{pot|lid on}.
+:{rest|15 min} _pearls off the heat in #{pot|lid on} => _{cooked pearls}.
+  (if still doughy, drain, rinse in cold water, and repeat the cooking)
+
+# Syrup
+
+:dissolve @{water|4 tbsp}, @{dark brown sugar|1/3 cup} in #pot over low-medium heat => _{brown sugar syrup}.
+  (start while the pearls cook)
+:drain _{cooked pearls} and combine with _{brown sugar syrup} => _{syrup pearls}.
+  (these keep in the fridge for a few days)
+
+# Milk tea
+
+:heat @{black tea|loose leaf} with @{milk|several cups} in #pot over low heat until the milk is steaming => _tea.
+:brew _tea off the heat to taste; longer is stronger.
+:serve _tea chilled or over lots of ice with _{syrup pearls}.
+
+>> note: Very sweet, usually too sweet.
+>> note: Also good with equal parts coffee and milk instead of tea.

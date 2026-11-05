@@ -1,0 +1,28 @@
+>> title: Apple Cider Pork Chops
+>> servings: 4
+>> author: Ted Lin
+>> date: 2019-01-19
+>> dish: pork chops
+>> course: main
+>> keywords: pork, apple
+>> summary: Pork chops cooked in apple cider until sweet and tender.
+>> modified: 2026-11-04
+
+# Pork
+
+:season @{pork chop|4|sirloin-end} with @salt and @{black pepper} => _pork.
+:coat _pork lightly with @flour, then let rest.
+:heat #{skillet|high} with @oil or @butter.
+:brown _pork on both sides in #skillet, about 1 min per side; remove the pork from the skillet.
+
+# Sauce
+
+:cook @{onion|1|sliced}, @{apple|2|small, sliced} in #skillet until the onions start to caramelize => _{onions and apples}.
+:{simmer|15-20 min} _pork, _{onions and apples}, @{sage|1 tsp}, @{apple cider|1 cup} in #skillet => _braise.
+:lift the pork out of _braise, and the apples too if you do not want them mushy, leaving the sauce in the skillet => _chops + _sauce.
+:simmer _sauce until the liquid reduces; add @cream to thicken.
+:return _chops to _sauce to bring back to temperature before serving.
+:serve _chops and _sauce with the apples.
+
+>> note: Serve with a baked potato and salad greens.
+>> note: Rosemary also works, added or used instead of the sage.

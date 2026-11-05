@@ -1,0 +1,36 @@
+>> title: Instant Pot Carnitas
+>> servings: 8
+>> author: Ted Lin
+>> date: 2020-03-21
+>> dish: carnitas
+>> cuisine: Tex-Mex
+>> course: main
+>> keywords: pork, instant pot, tacos
+>> summary: House-style carnitas, tex-mex meets asia; about 15 min of work and 25 min of waiting.
+>> image: static/photos/instant-pot-carnitas/taco.jpg
+>> image: static/photos/instant-pot-carnitas/prep.jpg
+>> image: static/photos/instant-pot-carnitas/cooked.jpg
+>> image: static/photos/instant-pot-carnitas/crisped.jpg
+>> source: https://www.seriouseats.com/2010/07/the-food-lab-how-to-make-crisp-and-juicy-carnitas-without-a-bucket-of-lard.html
+>> source: https://www.bonappetit.com/recipe/instant-pot-pork-carnitas
+>> source: https://foodwishes.blogspot.com/2014/10/crispy-pork-carnitas-these-little-meats.html
+>> source: https://www.gimmesomeoven.com/instant-pot-crispy-carnitas/
+
+# Pressure cook
+
+:mix @{pork shoulder|3 lb|cut into 2 in pieces}, @{kosher salt|1 tbsp}, @{black pepper|1 tsp}, @{ground cumin|1 tsp}, @{cinnamon|1/2 tsp}, @{five spice|1/4 tsp}, @{dried oregano|1/2 tsp}, @{bay leaf|2|torn}, @{onion|1|medium, diced}, @{?hot pepper|2|jalapeno, ancho, or other, chopped}, @{garlic|8 cloves|or more}, @{orange|1|navel, zested and halved} zest in #{instant pot} until evenly mixed => _pork.
+:squeeze the halved orange over _pork.
+  (the orange itself adds too much bitterness)
+:{cook|30 min} _pork in #{instant pot|lid sealed, high pressure}, then natural release.
+:remove _pork from #{instant pot}, discarding the garlic and bay leaves; save the oil and juices => _carnitas.
+  (for a big batch, freeze portions with some cooking liquid)
+
+# Crisp and serve
+
+:crisp _carnitas either spread on #{sheet pan}, lightly crushed to release the meat strands, and broiled, or tossed with the juices in #{cast iron pan} => _{crisp carnitas}.
+:serve _{crisp carnitas} however you like.
+
+>> note: Leftover carnitas oil and juices make great fried rice flavoring.
+>> note: Make pickled red onions for a side.
+>> note: Adding a beer made it more watery than I like.
+>> note: With a bone-in pork shoulder, save the bone for soup or broth, or toss it into the instant pot for extra flavor.

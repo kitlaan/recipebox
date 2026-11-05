@@ -1,0 +1,19 @@
+>> title: Hamburger Soup
+>> servings: 6
+>> author: Ted Lin
+>> date: 2019-01-19
+>> dish: hamburger soup
+>> course: soup
+>> keywords: hamburger, comfort
+>> summary: Ethan's family hamburger soup, for cold days.
+
+# Soup
+
+:brown @{hamburger|1 lb|80%+ lean}, @{onion|1|large, diced} => _base.
+:cook _base with @{carrot|2|diced, or more}, @{potato|2|diced, or more}, @{celery|2 stalks|diced, or more}, @{diced tomatoes|1 can} for 2 min.
+:{simmer|15 min} _base with @{chicken stock} or @water, as much as you want soup.
+:add @oregano and @{green beans|1 cup|frozen} to _base.
+:{simmer|15 min} _base.
+:season _base with @salt and @pepper to taste.
+
+>> note: Frozen green beans work much better than fresh, for whatever reason.

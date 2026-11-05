@@ -1,0 +1,26 @@
+>> title: Pita Bread
+>> servings: 8
+>> author: Ted Lin
+>> date: 2020-03-21
+>> dish: pita
+>> cuisine: Middle Eastern
+>> keywords: bread, grill
+>> summary: A simple, slightly sweet pita for the oven or the grill, best fresh.
+>> source: http://www.thefreshloaf.com/recipes/pitabread
+
+# Dough
+
+:mix @{all-purpose flour|3 cups}, @{yeast|2 tsp}, @{kosher salt|1 tsp}, @{sugar|1 tbsp} in #{mixing bowl} => _dough.
+:add @{olive oil|2 tbsp} and @{warm water|1 1/4 cups} to _dough, combine into a loose dough.
+:{knead|about 10 min} _dough by hand until smooth.
+:{rise|60-90 min} _dough in #{oiled bowl} covered with #{damp towel} until doubled; time depends on your temperature.
+:punch down _dough and divide into 8 pieces => _{pita rounds|8}.
+:{rest|20 min} _{pita rounds}.
+
+# Bake
+
+:roll _{pita rounds} to about 1/8 in thick; if they do not stretch well, let them rest a bit.
+:{bake|3 min} _{pita rounds} at #{oven|400F}, flipping after about 2 min, until they puff up completely before the flip.
+  (on the grill this may take much less time)
+
+>> note: Garlic powder works, but may need additional rising time.
