@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: kitlaan/culina
-          path: culina
+          path: .culina-src  # hidden: culina-site skips it
       - uses: dtolnay/rust-toolchain@stable
       - name: Build the site
         run: scripts/build-site.sh public

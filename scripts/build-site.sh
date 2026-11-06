@@ -8,10 +8,12 @@
 #
 #   CULINA=~/Projects/recipe-dsl scripts/build-site.sh [out-dir]
 #
-# CULINA is a kitlaan/culina checkout (CI uses ./culina); out-dir is public.
+# CULINA is a kitlaan/culina checkout (CI uses ./.culina-src: hidden, so
+# culina-site does not publish the tool's own test recipes); out-dir is
+# public.
 set -euo pipefail
 
-CULINA="${CULINA:-culina}"
+CULINA="${CULINA:-.culina-src}"
 OUT="${1:-public}"
 
 cargo build --release --manifest-path "$CULINA/Cargo.toml" -p culina-site
