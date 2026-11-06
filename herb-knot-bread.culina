@@ -11,7 +11,7 @@
 
 :mix @{all-purpose flour|4 cups}, @{bread flour|1 cup}, @{yeast|1 tsp}, @{salt|2 tsp} in #bowl => _flour.
 :combine @{warm water|1 1/2 cups}, @{sourdough discard|1/2 cup|straight from the fridge} => _liquid.
-:let _liquid sit a few minutes and check for yeast activity.
+:{rest|a few minutes} _liquid, then check for yeast activity.
 :mix and knead _liquid, _flour, @{oil|3 tbsp} until smooth => _dough.
   (add flour if it is too wet for you, but it should be sticky and tacky)
 :{proof|about 1 hour} _dough in #{oiled bowl} until roughly doubled.
@@ -23,7 +23,7 @@
 :slather @{herbs|whatever|finely chopped; basil, thyme, rosemary, garlic} and @oil on _{dough portions}, fold lengthwise in thirds.
 :stack _{dough portions}, then shape into whatever you want => _loaf.
   (steamed-bun knots, rough braids, lengthwise slices braided, or a plain wet mess all work)
-:place _loaf on #{sheet pan|parchment}.
+:place _loaf on a #{sheet pan} or #parchment.
 :{rest|about 1 hour} _loaf.
 
 # Bake

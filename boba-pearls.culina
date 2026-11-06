@@ -31,9 +31,9 @@
 
 # Cook
 
-:boil @{water|a lot} in #{large pot} to a rolling boil.
+:boil @{water|a lot} in #{large pot} to a rolling boil => _{boiling water}.
   (more than you think you need; the pearls release a lot of starch)
-:{simmer|15 min} _pearls in the boil in #{pot|lid on}.
+:{simmer|15 min} _pearls in _{boiling water} in #{pot|lid on}.
 :{rest|15 min} _pearls off the heat in #{pot|lid on} => _{cooked pearls}.
   (if still doughy, drain, rinse in cold water, and repeat the cooking)
 

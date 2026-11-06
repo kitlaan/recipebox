@@ -16,8 +16,8 @@
 
 # Pan and bake
 
-:spread @{extra-virgin olive oil|2-3 tbsp} evenly on #{rimmed baking sheet|18x13 in}.
-:release _dough from #{very large bowl} with #{rubber spatula}, folding onto itself gently, then pour onto the pan.
+:spread @{extra-virgin olive oil|2-3 tbsp} evenly on #{rimmed baking sheet|18x13 in} => _pan.
+:release _dough from #{very large bowl} with #{rubber spatula}, folding onto itself gently, then pour onto _pan.
 :pour @{extra-virgin olive oil|2 tbsp} over _dough and spread gently.
 :stretch _dough to the edge of the pan with your hands underneath, pulling outward; repeat once or twice over 30 min as it shrinks.
 :dimple _dough with the pads of your first three fingers at an angle.

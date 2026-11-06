@@ -12,8 +12,8 @@
 
 :season @{pork chop|4|sirloin-end} with @salt and @{black pepper} => _pork.
 :coat _pork lightly with @flour, then let rest.
-:heat #{skillet|high} with @oil or @butter.
-:brown _pork on both sides in #skillet, about 1 min per side; remove the pork from the skillet.
+:heat @{oil}{butter} in #{skillet|high} => _fat.
+:brown _pork in _fat on both sides, about 1 min per side; remove the pork from #skillet.
 
 # Sauce
 

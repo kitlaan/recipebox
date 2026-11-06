@@ -30,7 +30,7 @@
 # Bake
 
 :preheat #{oven|395F} an hour before baking.
-:{bake|30 min} _loaf in #oven with #{Pullman lid|on}.
+:{bake|30 min} _loaf in #oven, in its #{Pullman pan|lid on}.
 :shake the pan to loosen _loaf and immediately transfer to #{cooling rack}.
 :{cool|at least 1 hour} _loaf completely before slicing.
 

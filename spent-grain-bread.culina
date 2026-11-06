@@ -8,8 +8,8 @@
 
 # Dough
 
-:combine @{sugar|1/3 cup} and @{warm water|1 1/2 cups} in #{mixer bowl}.
-:{proof|5-10 min} @{active dry yeast|1 tbsp} in the sugar water => _yeast.
+:combine @{sugar|1/3 cup} and @{warm water|1 1/2 cups} in #{mixer bowl} => _{sugar water}.
+:{proof|5-10 min} @{active dry yeast|1 tbsp} in _{sugar water} => _yeast.
 :add @{spent grain|3 cups|wet}, @{flour|3-5 cups}, @{salt|1%pinch} to _yeast, knead until smooth => _dough.
   (all-purpose or bread flour both work; add flour until the dough is not sticky, since grain hydration varies)
 :transfer _dough to #{oiled bowl} and cover.
