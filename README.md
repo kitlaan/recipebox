@@ -2,7 +2,12 @@
 
 Recipes, as a dataflow graph — a collection in the
 [Culina](https://github.com/kitlaan/culina) format. One `.culina` file per
-recipe; collection policy lives in `.culina.toml`.
+recipe, in `recipes/`; photos live in `static/photos/<recipe>/`, and
+collection policy lives in `.culina.toml`. Browse them on the site:
+<https://kitlaan.github.io/recipebox/>.
+
+A page's URL is its file name, so moving a recipe between directories keeps
+its link; renaming the file changes it.
 
 Every push to `main` builds the site with `culina-site` and publishes it to
 GitHub Pages. Each page has a style picker (recipe card, inline
@@ -18,7 +23,7 @@ CULINA=/path/to/culina scripts/build-site.sh public
 The picker is a script in `static/` plus the generator's own sheets, copied
 next to the pages at build time, so the sheets always match the generator.
 
-Keep recipes canonical: `culinafmt -l *.culina` lists files whose form
+Keep recipes canonical: `culinafmt -l recipes/*.culina` lists files whose form
 differs; drop `-l` to rewrite them in place.
 
 ## License
