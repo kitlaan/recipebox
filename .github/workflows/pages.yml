@@ -1,6 +1,6 @@
 # Renders every .culina recipe into a static site with culina-site and
-# publishes it to GitHub Pages. Nothing hand-written here — the tool lives
-# in the culina repo, the recipes live here.
+# publishes it to GitHub Pages. The tool lives in the culina repo, the
+# recipes live here; scripts/build-site.sh adds the style picker.
 
 name: pages
 
@@ -25,9 +25,7 @@ jobs:
           path: culina
       - uses: dtolnay/rust-toolchain@stable
       - name: Build the site
-        run: |
-          cargo build --release --manifest-path culina/Cargo.toml -p culina-site
-          culina/target/release/culina-site --in . --out public
+        run: scripts/build-site.sh public
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public

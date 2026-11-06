@@ -5,18 +5,16 @@ Recipes, as a dataflow graph — a collection in the
 recipe; collection policy lives in `.culina.toml`.
 
 Every push to `main` builds the site with `culina-site` and publishes it to
-GitHub Pages. The same site, built locally:
+GitHub Pages. Each page has a style picker (recipe card, inline
+measurements, parallel tracks, index card); the choice is saved in the
+browser. `scripts/build-site.sh` builds it, from a culina checkout:
 
 ```
-cargo install --git https://github.com/kitlaan/culina culinafmt culina-site
-culina-site --in . --out public
+CULINA=/path/to/culina scripts/build-site.sh public
 ```
 
-From a culina checkout instead (tool development), no install needed:
-
-```
-cargo run -p culina-site -- --in /path/to/recipebox --out public
-```
+The picker is a script in `static/` plus the generator's own sheets, copied
+next to the pages at build time, so the sheets always match the generator.
 
 Keep recipes canonical: `culinafmt -l *.culina` lists files whose form
 differs; drop `-l` to rewrite them in place.
