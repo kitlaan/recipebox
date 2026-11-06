@@ -7,3 +7,10 @@ description = "Recipes, as a dataflow graph."
 # Each page also carries its Cooking For Engineers grid; the Layout picker
 # (static/style-switcher.js) shows it. Pages open on the card.
 grid = true
+# The recipe's own text rides its page, closed under "View source".
+source = true
+# Each page links its own file in the repo; {path} is the recipe's
+# location from this file's directory.
+source_link = "https://github.com/kitlaan/recipebox/blob/main/{path}"
+# The footer: where the recipes live.
+repository = "https://github.com/kitlaan/recipebox"
