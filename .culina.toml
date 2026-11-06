@@ -4,3 +4,6 @@
 [site]
 title = "Recipebox"
 description = "Recipes, as a dataflow graph."
+# Each page also carries its Cooking For Engineers grid; the Layout picker
+# (static/style-switcher.js) shows it. Pages open on the card.
+grid = true
