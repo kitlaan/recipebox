@@ -3,8 +3,8 @@
 // choice lives in localStorage, so it follows the reader across pages.
 //
 // Style swaps the card stylesheet (culina.css). Layout sets data-layout on
-// <html>, which culina-grid.css reads to show the CfE grid in place of the
-// ingredient list and method; it only appears on pages that carry a grid.
+// <html>, which culina-grid.css reads to show the CfE grid after the card's
+// method; it only appears on pages that carry a grid.
 (function () {
   var STYLES = [
     ["recipe-card", "Recipe card"],
