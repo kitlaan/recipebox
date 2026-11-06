@@ -18,3 +18,10 @@ next to the pages at build time, so the sheets always match the generator.
 
 Keep recipes canonical: `culinafmt -l *.culina` lists files whose form
 differs; drop `-l` to rewrite them in place.
+
+## License
+
+The recipes and photos are © Ted Lin, licensed
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Recipes adapted
+from other sources credit them in their `>> source:` lines; the license
+covers only what is original here. See [LICENSE](LICENSE).
